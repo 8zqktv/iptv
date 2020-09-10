@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OujzYZG.png" group-title="",Rasmey Hang Meas
+http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PtkwT8t.png" group-title="",Hang Meas TV
+http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FrrcCoi.jpg" group-title="",TownTV
+http://110.235.246.230:8000/towntv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lrCpYA3.jpg" group-title="",CTN
+http://43.245.34.2:9000/b25ldHZlbmNyeXB0/CTNKH.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4u91QPp.png" group-title="",MYTV
+http://43.245.34.2:9000/b25ldHZlbmNyeXB0/MyTVKH.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/91trtwZ.png" group-title="",Bayon TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xkE27Y.png" group-title="",Bayon News TV
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xZmAvQ.jpg" group-title="",PNN TV
+http://203.176.130.123:8989/live/pnn_480k.stream/media_w350903586_96670.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n77aKNT.png" group-title="",CNC
+http://43.245.34.2:9000/b25ldHZlbmNyeXB0/CNCKH-003.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXEv1dc.png" group-title="",Sea TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeGfmXt.png" group-title="",MSJ TV
+http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dztT90I.jpg" group-title="",TV5 Cambodia
+http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GD4n70u.png" group-title="",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWjeTlX.jpg" group-title="",CTV 8
+http://220.158.149.26:8182/hls/TV00000000000000000142@HHZT.m3u8
+#EXTINF:-1 tvg-logo="http://khmer.fyi/images/portfolio/full/tv9.jpg" group-title="",CTV 9
+http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/kh/TeaTV2HD.jpg" group-title="",Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PbP1Dd.png" group-title="",Khmer TV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1tEiVSZCO-k/V1ubcV17ZwI/AAAAAAAAAns/DxMY-X3EGPMUqY2J_ZyowJ2A5iF57bW0gCLcB/s1600/Apsara_tv.jpg" group-title="",Apsara TV
+http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/kh/cambodiatvHD.jpg" group-title="",Cambodia TV
+https://livefta.malimarcdn.com/ftaedge00/malimarkhlive.stream/playlist.m3u8
