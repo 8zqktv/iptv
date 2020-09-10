@@ -3,10 +3,8 @@
 http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PtkwT8t.png" group-title="",Hang Meas TV
 http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FrrcCoi.jpg" group-title="",TownTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lrCpYA3.jpg" group-title="",TownTV
 http://110.235.246.230:8000/towntv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lrCpYA3.jpg" group-title="",CTN
-http://43.245.34.2:9000/b25ldHZlbmNyeXB0/CTNKH.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4u91QPp.png" group-title="",MYTV
 http://43.245.34.2:9000/b25ldHZlbmNyeXB0/MyTVKH.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/91trtwZ.png" group-title="",Bayon TV
