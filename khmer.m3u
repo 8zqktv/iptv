@@ -11,6 +11,8 @@ http://43.245.34.2:9000/b25ldHZlbmNyeXB0/MyTVKH.m3u8
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1xkE27Y.png" group-title="",Bayon News TV
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/buNxS14.png" group-title="",Apsara TV
+http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1xZmAvQ.jpg" group-title="",PNN TV
 http://203.176.130.123:8989/live/pnn_480k.stream/media_w350903586_96670.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n77aKNT.png" group-title="",CNC
@@ -22,7 +24,7 @@ http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dztT90I.jpg" group-title="",TV5 Cambodia
 http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GD4n70u.png" group-title="",TVK
-http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
+https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWjeTlX.jpg" group-title="",CTV 8
 http://220.158.149.26:8182/hls/TV00000000000000000142@HHZT.m3u8
 #EXTINF:-1 tvg-logo="http://khmer.fyi/images/portfolio/full/tv9.jpg" group-title="",CTV 9
